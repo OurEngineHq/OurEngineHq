@@ -4,176 +4,393 @@
 
 # Build. Create. Ship.
 
-### A growing software ecosystem built for every platform.
+### A growing software ecosystem for modern computing.
 
-**OurEngine develops software, tools, applications, compatibility technology, and services for modern computing.**
+**Applications • Developer Tools • Compatibility • Web • Mobile • Cloud**
 
 <br>
 
-![Status](https://img.shields.io/badge/Status-Available%20%26%20Active%20Development-22C55E?style=for-the-badge)
-![Platforms](https://img.shields.io/badge/Platforms-macOS%20%7C%20Windows%20%7C%20Linux%20%7C%20iOS%20%7C%20iPadOS%20%7C%20Android-2563EB?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-Expanding-06B6D4?style=for-the-badge)
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE-22C55E?style=for-the-badge">
+<img src="https://img.shields.io/badge/DEVELOPMENT-ACTIVE-2563EB?style=for-the-badge">
+<img src="https://img.shields.io/badge/PROJECTS-EXPANDING-06B6D4?style=for-the-badge">
 
 </div>
 
 ---
 
-# 🌐 What is OurEngine?
+# About OurEngine
 
-**OurEngine is a software company and technology ecosystem focused on building applications and tools across modern computing platforms.**
+**OurEngine** is a software company and technology ecosystem focused on building applications, tools, services, and experimental technology across multiple platforms.
 
-We aren't building just one application.
+We're not building just one application.
 
 We're building an ecosystem.
 
-OurEngine explores software across:
+OurEngine explores:
 
-* 🖥️ Desktop applications
-* 🎮 Gaming and interactive software
-* 🛠️ Developer tools
-* 🌐 Web applications
-* 📱 Mobile applications
-* 🪟 Windows software
-* 🍎 macOS software
-* 🐧 Linux software
-* 🤖 Android applications
-* 📱 iPhone and iPad applications
-* ☁️ Online services
-* 🔐 Security systems
-* ⚙️ Compatibility technology
-* 🧪 Experimental software
-
-Our goal is to create software that works across platforms while maintaining a consistent OurEngine experience.
+* Desktop software
+* Mobile applications
+* Developer tools
+* Web applications
+* Cloud services
+* Compatibility technology
+* Utilities
+* Interactive software
+* Games and experiments
+* Security systems
 
 ---
 
-# 🟢 Availability
+# Platforms
 
-OurEngine is **available and actively being developed**.
+<div align="center">
 
-Some projects are currently under development, while others are being prepared for future releases.
+<a href="https://www.apple.com/macos/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="60" height="60" alt="Apple">
+</a>
 
-> **Not everything in the OurEngine ecosystem is released yet.**
+   
 
-Projects may move through development stages such as:
+<a href="https://www.microsoft.com/windows">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" height="60" alt="Windows">
+</a>
 
-```text
-IDEA
-  ↓
-PLANNING
-  ↓
-DEVELOPMENT
-  ↓
-TESTING
-  ↓
-BETA
-  ↓
-AVAILABLE
-  ↓
-CONTINUOUS DEVELOPMENT
-```
+   
+
+<a href="https://www.linux.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="Linux">
+</a>
+
+   
+
+<a href="https://www.android.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60" height="60" alt="Android">
+</a>
+
+   
+
+<a href="https://www.apple.com/ios/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="60" height="60" alt="iOS">
+</a>
+
+</div>
+
+<p align="center">
+
+<b>macOS</b>
+  •   <b>Windows</b>
+  •   <b>Linux</b>
+  •   <b>Android</b>
+  •   <b>iOS / iPadOS</b>
+  •   <b>Web</b>
+
+</p>
 
 ---
 
-# 🖥️ Platform Ecosystem
+# What We're Building
 
-OurEngine is designed with multiple platforms in mind.
+## Core Technology
 
-| Platform          | Support                  |
-| ----------------- | ------------------------ |
-| 🍎 macOS          | 🟢 Active                |
-| 🪟 Windows        | 🟢 Active                |
-| 🐧 Linux          | 🟢 Planned / Development |
-| 📱 iOS            | 🟢 Active                |
-| 📱 iPadOS         | 🟢 Active                |
-| 🤖 Android        | 🟢 Active / Planned      |
-| 🌐 Web            | 🟢 Active                |
-| ☁️ Cloud Services | 🔵 Developing            |
-
-Our goal is to continue expanding platform support as projects mature.
-
----
-
-# 🚀 What We're Building
-
-OurEngine is developing more than a single application.
-
-The ecosystem includes multiple categories of software.
-
-### 🧠 Core Technology
-
-The foundation of the OurEngine ecosystem.
+OurEngine's foundation for future applications and services.
 
 * Software infrastructure
-* Development systems
 * Shared services
 * Application frameworks
 * Security systems
 * Cross-platform technology
+* Developer tooling
 
 ---
 
-### 🖥️ Desktop Software
+## Desktop Software
 
-Applications designed for desktop computers.
+Applications designed for modern desktop systems.
 
-* macOS applications
-* Windows applications
-* Linux applications
+**Platforms**
+
+* macOS
+* Windows
+* Linux
+
+**Areas**
+
 * Developer tools
 * Utilities
-* Productivity software
-* Compatibility technology
+* Productivity
+* Compatibility
+* System tools
+* Experimental software
 
 ---
 
-### 📱 Mobile Software
+## Mobile Software
 
-Applications designed for mobile devices.
+Applications designed for phones and tablets.
 
-* iPhone applications
-* iPad applications
-* Android applications
+**Platforms**
+
+* iOS
+* iPadOS
+* Android
+
+**Areas**
+
 * Companion applications
-* Mobile utilities
-* Cross-platform experiences
+* Utilities
+* Interactive experiences
+* Productivity
+* Future OurEngine products
 
 ---
 
-### 🌐 Web & Cloud
+## Web & Cloud
 
-Online systems that connect the ecosystem.
+Online systems connecting the OurEngine ecosystem.
 
 * Websites
 * Web applications
 * APIs
 * Authentication
-* Developer services
 * Cloud infrastructure
-* Project management systems
+* Developer services
+* Project services
 
 ---
 
-### 🎮 Interactive Software
+# Current Projects
 
-We also explore interactive experiences and software that goes beyond traditional applications.
+## OurEngine
 
-Potential areas include:
+The core technology ecosystem.
 
-* Games
-* Interactive applications
-* Virtual environments
-* Creative tools
+**Status:** `AVAILABLE • ACTIVE DEVELOPMENT`
+
+OurEngine is the foundation for the software, services, and tools being developed under the OurEngine ecosystem.
+
+---
+
+## WinOpen Engine
+
+A macOS application focused on simplifying Windows software compatibility.
+
+**Status:** `ACTIVE DEVELOPMENT`
+
+### Focus
+
+* Windows software on macOS
+* Wine integration
+* Application management
+* Compatibility workflows
+* Simplified launching
+
+---
+
+## Friend Pet
+
+An interactive virtual companion application.
+
+**Platforms**
+
+`iOS` `iPadOS` `Android`
+
+**Status:** `ACTIVE DEVELOPMENT`
+
+Friend Pet is one of the mobile experiences being developed within the OurEngine ecosystem.
+
+---
+
+## OurEngine Web
+
+The web platform for OurEngine services and infrastructure.
+
+**Status:** `ACTIVE DEVELOPMENT`
+
+### Focus
+
+* Web applications
+* Authentication
+* APIs
+* Infrastructure
+* Security
+* Project services
+
+---
+
+# Future Products
+
+OurEngine is designed to grow beyond the projects currently listed above.
+
+Future development may include:
+
+### Developer Tools
+
+Software designed to make development faster and easier.
+
+### Desktop Utilities
+
+Powerful utilities for macOS, Windows, and Linux.
+
+### Mobile Applications
+
+New applications for Android, iPhone, and iPad.
+
+### Interactive Software
+
+Games, creative applications, and experimental experiences.
+
+### Cloud Services
+
+Online services connecting OurEngine applications.
+
+### Security Technology
+
+Tools and infrastructure focused on application and platform security.
+
+### Experimental Projects
+
+New ideas that may eventually become complete OurEngine products.
+
+---
+
+# Our Ecosystem
+
+```text
+                         ┌─────────────────────────┐
+                         │        OURENGINE        │
+                         │      CORE ECOSYSTEM     │
+                         └────────────┬────────────┘
+                                      │
+          ┌───────────────────────────┼───────────────────────────┐
+          │                           │                           │
+          ▼                           ▼                           ▼
+   ┌───────────────┐          ┌───────────────┐          ┌───────────────┐
+   │    DESKTOP    │          │     MOBILE    │          │      WEB      │
+   │               │          │               │          │               │
+   │ macOS         │          │ iOS           │          │ Websites      │
+   │ Windows       │          │ iPadOS        │          │ APIs          │
+   │ Linux         │          │ Android       │          │ Cloud         │
+   └───────┬───────┘          └───────┬───────┘          └───────┬───────┘
+           │                          │                          │
+           └──────────────────────────┼──────────────────────────┘
+                                      │
+                                      ▼
+                           ┌─────────────────────┐
+                           │   FUTURE PRODUCTS   │
+                           │                     │
+                           │ Tools               │
+                           │ Utilities           │
+                           │ Games               │
+                           │ Services            │
+                           │ Experiments         │
+                           └─────────────────────┘
+```
+
+---
+
+# Technology
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="55" height="55" alt="Swift">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="55" height="55" alt="CMake">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git">
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub">
+
+</div>
+
+<p align="center">
+
+<b>Swift</b>
+ •  <b>C++</b>
+ •  <b>Python</b>
+ •  <b>JavaScript</b>
+ •  <b>Node.js</b>
+ •  <b>Flutter</b>
+ •  <b>CMake</b>
+ •  <b>Git</b>
+
+</p>
+
+---
+
+# Development
+
+OurEngine follows an ongoing development model.
+
+We're continuously working on:
+
+* New applications
+* New technologies
+* Platform support
+* Mobile experiences
+* Web infrastructure
+* Security
+* Performance
+* User interfaces
 * Experimental projects
 
 ---
 
-# 📦 Current Projects
+# Roadmap
 
-## 🧠 OurEngine
+## Foundation
 
-The core technology ecosystem.
+* [x] Establish OurEngine
+* [x] Create project ecosystem
+* [x] Begin core development
+* [x] Establish branding
+* [ ] Expand documentation
 
-OurEngine provides the foundation for future applications, services, and development systems.
+## Platform Expansion
 
-**Status:** 🟢 Active Development
+* [ ] Expand macOS software
+* [ ] Expand Windows software
+* [ ] Expand Linux support
+* [ ] Expand iOS / iPadOS applications
+* [ ] Expand Android applications
+* [ ] Expand web infrastructure
+
+## Product Ecosystem
+
+* [ ] Release additional applications
+* [ ] Build shared OurEngine services
+* [ ] Expand developer tools
+* [ ] Create additional utilities
+* [ ] Launch experimental projects
+
+## Future
+
+* [ ] More platforms
+* [ ] More applications
+* [ ] More services
+* [ ] More developer tools
+* [ ] New technologies
+* [ ] Expanded ecosystem
+
+---
+
+# Security
+
+Security is an important part of OurEngine development.
+
+We focus on:
+
+* Secure application design
+* Protected authentication
+* Secure development practices
+* Responsible vulnerability handling
+* Secure

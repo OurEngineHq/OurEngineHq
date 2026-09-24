@@ -1,262 +1,179 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=220&section=header&text=OURENGINE&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=230&section=header&text=OURENGINE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
 
 # Build. Create. Ship.
 
-**A modern software ecosystem for building powerful applications and developer tools.**
+### A growing software ecosystem built for every platform.
 
-[![OurEngine](https://img.shields.io/badge/OurEngine-Software%20Ecosystem-111827?style=for-the-badge\&logo=github)](https://github.com/)
-[![Status](https://img.shields.io/badge/Status-Active%20Development-2563EB?style=for-the-badge)](https://github.com/)
-[![Platform](https://img.shields.io/badge/Platform-macOS-111827?style=for-the-badge\&logo=apple)](https://www.apple.com/macos/)
+**OurEngine develops software, tools, applications, compatibility technology, and services for modern computing.**
+
+<br>
+
+![Status](https://img.shields.io/badge/Status-Available%20%26%20Active%20Development-22C55E?style=for-the-badge)
+![Platforms](https://img.shields.io/badge/Platforms-macOS%20%7C%20Windows%20%7C%20Linux%20%7C%20iOS%20%7C%20iPadOS%20%7C%20Android-2563EB?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-Expanding-06B6D4?style=for-the-badge)
 
 </div>
 
 ---
 
-## ⚡ About OurEngine
+# 🌐 What is OurEngine?
 
-**OurEngine** is a software ecosystem focused on creating modern applications, development tools, and connected technology.
+**OurEngine is a software company and technology ecosystem focused on building applications and tools across modern computing platforms.**
 
-Our goal is simple:
+We aren't building just one application.
 
-> **Build technology that makes creating, developing, and using software better.**
+We're building an ecosystem.
 
-OurEngine brings multiple projects together under one ecosystem.
+OurEngine explores software across:
 
----
+* 🖥️ Desktop applications
+* 🎮 Gaming and interactive software
+* 🛠️ Developer tools
+* 🌐 Web applications
+* 📱 Mobile applications
+* 🪟 Windows software
+* 🍎 macOS software
+* 🐧 Linux software
+* 🤖 Android applications
+* 📱 iPhone and iPad applications
+* ☁️ Online services
+* 🔐 Security systems
+* ⚙️ Compatibility technology
+* 🧪 Experimental software
 
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 OurEngine
-
-The core OurEngine platform and technology ecosystem.
-
-**Focus**
-
-* Software infrastructure
-* Developer tooling
-* Modular architecture
-* Performance
-* Security
-
-</td>
-<td width="50%">
-
-### 🐾 Friend Pet
-
-An interactive virtual companion application designed for Apple devices.
-
-**Focus**
-
-* iPhone
-* iPad
-* Interactive experiences
-* Persistent progress
-* Modern UI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🪟 WinOpen Engine
-
-A macOS application focused on simplifying Windows software compatibility.
-
-**Focus**
-
-* macOS
-* Wine integration
-* Application management
-* Simplified launching
-
-</td>
-<td width="50%">
-
-### 🌐 OurEngine Web
-
-The web platform connecting the OurEngine ecosystem.
-
-**Focus**
-
-* Web services
-* Authentication
-* Infrastructure
-* Project management
-* Security
-
-</td>
-</tr>
-</table>
+Our goal is to create software that works across platforms while maintaining a consistent OurEngine experience.
 
 ---
 
-## 🧩 Our Ecosystem
+# 🟢 Availability
+
+OurEngine is **available and actively being developed**.
+
+Some projects are currently under development, while others are being prepared for future releases.
+
+> **Not everything in the OurEngine ecosystem is released yet.**
+
+Projects may move through development stages such as:
 
 ```text
-                         ┌─────────────────────┐
-                         │      OURENGINE      │
-                         │    CORE ECOSYSTEM   │
-                         └──────────┬──────────┘
-                                    │
-             ┌──────────────────────┼──────────────────────┐
-             │                      │                      │
-             ▼                      ▼                      ▼
-      ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
-      │  OurEngine  │       │ Friend Pet  │       │  WinOpen    │
-      │     Core    │       │             │       │   Engine    │
-      └──────┬──────┘       └──────┬──────┘       └──────┬──────┘
-             │                     │                     │
-             └─────────────────────┼─────────────────────┘
-                                   │
-                                   ▼
-                         ┌─────────────────────┐
-                         │    OurEngine Web    │
-                         └─────────────────────┘
+IDEA
+  ↓
+PLANNING
+  ↓
+DEVELOPMENT
+  ↓
+TESTING
+  ↓
+BETA
+  ↓
+AVAILABLE
+  ↓
+CONTINUOUS DEVELOPMENT
 ```
 
 ---
 
-## 🛠️ Technology
+# 🖥️ Platform Ecosystem
 
-<div align="center">
+OurEngine is designed with multiple platforms in mind.
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge\&logo=swift\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge\&logo=cmake\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+| Platform          | Support                  |
+| ----------------- | ------------------------ |
+| 🍎 macOS          | 🟢 Active                |
+| 🪟 Windows        | 🟢 Active                |
+| 🐧 Linux          | 🟢 Planned / Development |
+| 📱 iOS            | 🟢 Active                |
+| 📱 iPadOS         | 🟢 Active                |
+| 🤖 Android        | 🟢 Active / Planned      |
+| 🌐 Web            | 🟢 Active                |
+| ☁️ Cloud Services | 🔵 Developing            |
 
-</div>
-
----
-
-## 📊 Development
-
-OurEngine is actively evolving.
-
-Current development focuses on:
-
-* 🏗️ Core architecture
-* 🎨 User interfaces
-* 🔐 Security
-* ⚡ Performance
-* 🧩 Ecosystem integration
-* 🧪 Testing
-* 📦 Release infrastructure
+Our goal is to continue expanding platform support as projects mature.
 
 ---
 
-## 🗺️ Roadmap
+# 🚀 What We're Building
 
-### Foundation
+OurEngine is developing more than a single application.
 
-* [x] Establish OurEngine ecosystem
-* [x] Create project structure
-* [x] Begin core development
-* [ ] Unified branding
-* [ ] Expanded documentation
+The ecosystem includes multiple categories of software.
 
-### Applications
+### 🧠 Core Technology
 
-* [ ] Continue OurEngine development
-* [ ] Continue Friend Pet development
-* [ ] Continue WinOpen Engine development
-* [ ] Improve project integration
+The foundation of the OurEngine ecosystem.
 
-### Ecosystem
-
-* [ ] Expand OurEngine Web
-* [ ] Unified infrastructure
-* [ ] Developer documentation
-* [ ] Release infrastructure
-* [ ] Public releases
-
-### Future
-
-* [ ] Additional applications
-* [ ] Advanced developer tools
-* [ ] Expanded platform support
-* [ ] New OurEngine technologies
+* Software infrastructure
+* Development systems
+* Shared services
+* Application frameworks
+* Security systems
+* Cross-platform technology
 
 ---
 
-## 🔐 Security
+### 🖥️ Desktop Software
 
-Security is a core consideration throughout the OurEngine ecosystem.
+Applications designed for desktop computers.
 
-We aim to maintain:
-
-* 🔒 Secure user data
-* 🛡️ Protected authentication
-* 🔑 Secure development practices
-* 🚨 Responsible vulnerability handling
-* 🔐 Protected infrastructure
-
-If you discover a security vulnerability, please report it responsibly rather than publicly exposing it.
+* macOS applications
+* Windows applications
+* Linux applications
+* Developer tools
+* Utilities
+* Productivity software
+* Compatibility technology
 
 ---
 
-## 📚 Documentation
+### 📱 Mobile Software
 
-Documentation will continue to expand as the ecosystem develops.
+Applications designed for mobile devices.
 
-Planned documentation includes:
+* iPhone applications
+* iPad applications
+* Android applications
+* Companion applications
+* Mobile utilities
+* Cross-platform experiences
 
-* Getting Started
-* Installation
-* Development
-* Architecture
+---
+
+### 🌐 Web & Cloud
+
+Online systems that connect the ecosystem.
+
+* Websites
+* Web applications
 * APIs
-* Configuration
-* Troubleshooting
-* Contributing
+* Authentication
+* Developer services
+* Cloud infrastructure
+* Project management systems
 
 ---
 
-## 🤝 Contributing
+### 🎮 Interactive Software
 
-We welcome development contributions, testing, ideas, and feedback.
+We also explore interactive experiences and software that goes beyond traditional applications.
 
-Before contributing:
+Potential areas include:
 
-1. Check existing issues.
-2. Read the relevant documentation.
-3. Follow project coding conventions.
-4. Test your changes.
-5. Submit a clear pull request.
-
----
-
-## 📦 Releases
-
-Official releases and downloadable builds will be published through GitHub Releases as projects become ready.
-
-**Current status:** `ACTIVE DEVELOPMENT`
+* Games
+* Interactive applications
+* Virtual environments
+* Creative tools
+* Experimental projects
 
 ---
 
-<div align="center">
+# 📦 Current Projects
 
-### OURENGINE
+## 🧠 OurEngine
 
-**Build. Create. Ship.**
+The core technology ecosystem.
 
-⭐ Follow the project as the ecosystem grows.
+OurEngine provides the foundation for future applications, services, and development systems.
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=120&section=footer" width="100%">
-
-**© OurEngine**
-
-</div>
+**Status:** 🟢 Active Development
